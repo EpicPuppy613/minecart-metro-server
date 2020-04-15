@@ -1,0 +1,32 @@
+body {
+    background: #eeeeee;
+    text-align: center;
+}   
+.section {
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+#heading {
+    background: #ddddff;
+}
+#info {
+    background: #ffddff;
+}
+#hr-a {
+    border-color: #0000ff;
+}
+#hr-b {
+    border-color: #ff0000;
+}
+#hr-c {
+    border-color: #00ff00;
+}
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
