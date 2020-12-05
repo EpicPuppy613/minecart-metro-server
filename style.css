@@ -5,12 +5,16 @@ body {
 .section {
     border: 2px solid #000000;
     border-radius: 10px;
+    padding: 8px;
 }
 #heading {
     background: #ddddff;
 }
 #info {
     background: #ffddff;
+}
+#maps {
+    background: #ffffdd;
 }
 #hr-a {
     border-color: #0000ff;
@@ -20,6 +24,19 @@ body {
 }
 #hr-c {
     border-color: #00ff00;
+}
+a {
+    border: 2px solid #000000;
+    padding: 4px;
+    margin: 8px;
+    color: black;
+    background: #8888ff;
+}
+a:hover {
+    background: #aaaaff;
+}
+a:active {
+    background: #ccccff;
 }
 hr {
     margin-top: 0.5em;
